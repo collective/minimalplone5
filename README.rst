@@ -21,13 +21,13 @@ Install
 
     $ git clone git@github.com:collective/minimalplone5.git
     $ cd minimalplone5
-    $ virtualenv python
-    $ ./python/bin/pip install zc.buildout
-    $ ./python/bin/buildout
+    $ virtualenv .
+    $ ./bin/pip install zc.buildout
+    $ ./bin/buildout
 
 Or if you want to use the ZEO configuration::
 
-    $ ./python/bin/buildout -c zeo.cfg
+    $ ./bin/buildout -c zeo.cfg
 
 In any case you will be asked for an administrative username and password.
 
