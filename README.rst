@@ -20,6 +20,7 @@ Install
 For the default configuration with the latest Plone 5 release::
 
     $ git clone git@github.com:collective/minimalplone5.git
+    $ cd minimalplone5
     $ ./bootstrap.sh
 
 If you want to install the development version of Plone based buildout.coredev::
