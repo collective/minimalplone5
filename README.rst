@@ -9,7 +9,7 @@ packages. Therefore, the buildout extends files from buildout.coredev on github.
 
 Prerequisites
 -------------
-- Python 2.7
+- Python 3
 - Python Virtualenv
 - Git
 
